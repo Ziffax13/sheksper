@@ -1,0 +1,30 @@
+.menu{
+  height: 70px;
+  width: 100%;
+  background-color: rgb(206, 57, 57);
+  color: white;
+  position: fixed;
+}
+.menuButton{
+  width: fit-content;
+  height: 70px;
+  background-color: rgb(206, 57, 57);
+  float:left
+}
+.menuButton:hover{
+  background-color: rgb(120, 34, 34);
+}
+.maintext{
+  margin-top: 70px;
+  float:left;
+  width: 900px;
+  margin-left: 5%;
+}
+li{
+  list-style-type: none;
+  float: left;
+  margin: 1%;
+}
+img{
+  width: 100px;
+}
